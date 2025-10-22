@@ -1,0 +1,3 @@
+AI-log — Projekt: ai-mobile-artiramosaj
+Data: 10/22/2025
+Përshkrim: Regjistrim i të gjitha prompt-eve që përdoren me AI gjatë semestrit.
